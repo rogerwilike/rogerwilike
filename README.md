@@ -51,19 +51,12 @@
 
 ## Contatos:
 
-<table>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/rogerwilike" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a><br/>
-      <a href="https://www.linkedin.com/in/rogerwilike" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br/>
-      <a href="mailto:rogerwilik@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    </td>
-    <td valign="top" align="right">
-      <aside style="float:right;margin-left:16px;">
-        <img src="assets/profile-header.jpg" alt="Ilustração" width="300" />
-      </aside>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display:flex;gap:12px;align-items:center;justify-content:center;flex-wrap:wrap;">
+    <a href="https://github.com/rogerwilike" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/rogerwilike" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:rogerwilik@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </div>
+</div>
 
 ---
