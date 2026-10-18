@@ -52,7 +52,11 @@
 ## Contatos:
 
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Cabeçalho do perfil de Roger Wilike" style="max-width:100%;height:auto;" />
+  <img src="https://avatars.githubusercontent.com/rogerwilike" alt="Foto de perfil" width="160" style="border-radius:10px;" />
+  <br/><br/>
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogerwilike)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogerwilike)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogerwilik@gmail.com)
 </p>
 
 ---
