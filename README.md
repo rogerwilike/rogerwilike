@@ -59,7 +59,7 @@
       <a href="mailto:rogerwilik@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     </td>
     <td valign="top" align="right">
-      <img src="assets/profile-header.jpg" alt="Ilustração" width="220" />
+      <img src="assets/profile-header.jpg" alt="Ilustração" width="180" />
     </td>
   </tr>
 </table>
