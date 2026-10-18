@@ -51,11 +51,18 @@
 
 ## Contatos:
 
-<div>
-<img src="https://blog.faradars.org/wp-content/uploads/2024/05/A-computer-screen-with-lines-of-code-on-it-representing-statistics-techniques-for-machine-learning.jpg" alt="Ilustração" style="float:right;max-width:200px;margin-left:12px;border-radius:6px;" />
-<a href="https://github.com/rogerwilike" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/rogerwilike" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:rogerwilik@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<div align="center">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;flex-wrap:wrap;max-width:960px;margin:0 auto;">
+    <div style="display:flex;flex-direction:column;gap:8px;align-items:flex-start;">
+      <a href="https://github.com/rogerwilike" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      <a href="https://www.linkedin.com/in/rogerwilike" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+      <a href="mailto:rogerwilik@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    </div>
+
+    <div>
+      <img src="https://blog.faradars.org/wp-content/uploads/2024/05/A-computer-screen-with-lines-of-code-on-it-representing-statistics-techniques-for-machine-learning.jpg" alt="Ilustração" style="max-width:140px;border-radius:6px;" />
+    </div>
+  </div>
 </div>
 
 ---
